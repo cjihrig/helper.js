@@ -1,7 +1,7 @@
 helper.js
 =========
 
-A lightweight, client-side scripting library.
+A lightweight, client-side JavaScript library.
 
 A blog post discussing the project is available at http://cjihrig.com/blog/introducing-the-helper-js-library/.
 
